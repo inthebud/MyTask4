@@ -1,0 +1,40 @@
+html{font-size: 62.5%; background-color: #eff0f4;}
+header{background-color: #5fc0cd;
+	position: fixed;height: 9rem;
+	top: 0;left: 0;right: 0;}
+p{color: #FFFFFF;}
+p.close{font-size: 3.2rem;margin: 0;
+		position: fixed;top: 3rem;left: 3rem;}
+p.login{font-size: 3.2rem;margin: 0 auto;text-align: center;padding-top: 3rem;}
+p.signin
+	{font-size: 3.2rem;margin: 0;
+	position: fixed;top: 3rem;right:3rem;}
+div.middle{position: fixed;height: 45rem;top: 0rem;left: 0;right: 0;
+			padding-top: 10.5rem;}
+input.phone
+	{
+	background-color: #ffffff;font-size: 3.2rem;width: 100%;
+	padding: 2.5rem 0 2.5rem 15rem;
+	background-image: url(images/03.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-width: 0;outline: none;
+	}
+input.lock
+{
+	background-color: #ffffff;font-size: 3.2rem;width: 100%;
+	padding: 2.5rem 0 2.5rem 15rem;
+	background-image: url(images/04.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-width: 0;margin-top: 1.5rem;outline: none;
+}
+button
+{
+	background-color: #5fc0cd;font-size: 3.2rem; color:#FFFFFF;width: 100%;
+	padding: 2.5rem 0;border-width: 0;margin-top: 1.5rem ;
+	outline:none;
+}
+p.footer{
+	color: #5fc0cd;font-size: 3.2rem;margin-top: 1.5rem;text-align: right;
+}
